@@ -1,1 +1,1 @@
-# Playing-PacMan-using-Hand-Gestyres
+# Playing-PacMan-using-Hand-Gestures
