@@ -7,4 +7,4 @@ In this example, we'll use a pretrained [MobileNet](https://github.com/tensorflo
 using an internal mobilenet activation to predict 4 different classes from the
 webcam defined by the user.
 
-[See this live!](file:///C:/Users/hp/Downloads/webcam-transfer-learning/dist/index.html)
+[See this live!](https://youtu.be/FQJTOiVegj4)
